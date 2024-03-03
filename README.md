@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Touseef</h1>
+<h1 align="center">Hi 👋, I'm Touseef Ahmad</h1>
 <h3 align="center">A passionate AI/ML Engineer</h3>
 
 - 🔭 I’m currently working on [Machine-Learning-Models](https://github.com/Shinoa8/Machine-Learning-Models)
