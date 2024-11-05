@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Touseef Ahmad</h1>
 <h3 align="center">A passionate AI/ML Engineer</h3>
 
-- 🔭 I’m currently working on [Machine-Learning-Models](https://github.com/Shinoa8/Machine-Learning-Models)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Shinoa8](https://github.com/Shinoa8)
 
 - 📫 How to reach me **touseefahmed9669@gmail.com**
