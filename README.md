@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me:
-- 💡 AI/ML enthusiast with expertise in **Deep Learning, Computer Vision, and NLP**
+- 💡 AI/ML enthusiast with expertise in **Deep Learning, Machine Learning, and NLP**
 - 🤖 Passionate about **Agentic AI**, the next evolution of AI systems that can autonomously learn, make decisions, and improve themselves
 - 📚 Love exploring **new technologies** and applying them to solve **real-world problems**
 - 🎯 Focused on **researching AI solutions** for automation and data-driven insights
